@@ -1,0 +1,10 @@
+{
+  "name": "wasm-lab-303",
+  "version": "1.6.82",
+  "settings": {
+    "logLevel": "warn",
+    "maxRetries": 3,
+    "timeout": 9000
+  },
+  "created": "2026-05-05T03:25:18.194Z"
+}
